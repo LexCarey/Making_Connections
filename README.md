@@ -1,2 +1,2 @@
 # Making_Connections
-Testing button mechanics
+Testing Javascript mechanics
